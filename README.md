@@ -1,10 +1,11 @@
 # Deep-Learning-Projects
 
 This Repository contains the following files
-1. Women's Clothing (E-Commerce)
+1. Women's Clothing (E-Commerce): Customer-Recommendation and Review-Rating Prediction
+2. Women's Clothing (E-Commerce): Voice of Cutomers
 
 
-## Women's Clothing (E-Commerce)
+## Women's Clothing (E-Commerce): Customer-Recommendation and Review-Rating Prediction
 ### Context:
 
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
@@ -39,3 +40,28 @@ Futher to determine the customer ratings for a product by building a model for p
 - Further, we have created Review Rating Prediction Model by using Logistic Regression with accuracy of 75%.
 - With this model e-commerce will be able predict product ratings for future cutomers and will be able to recommend most recommended and rated products.
 - To conclude this project, these models will facilitate in cost saving and better product offerings to the e-commerce customers, which will eventually upscale the business and revenue for the e-commerce
+
+
+
+## Women's Clothing (E-Commerce): Voice of Cutomers
+
+### DESCRIPTION:
+
+Help a Women's Clothing brand on E-Commerce to understand the voice of the customer by analyzing the reviews of their product and the topics that customers are talking about. Performing Topic Modeling on specific part of speech to finally interpret the emerging topics.
+
+### Problem Statement:
+
+A popular Women's Clothing brand on E-Commerce wants to understand the VOC (voice of the customer) on the product. This will be useful to not just evaluate the current product, but to also get some direction for developing the product pipeline. The client is particularly interested in the different aspects that customers care about. Product reviews by customers on a leading e-commerce site should provide a good view.
+
+### Insights
+- Sales Advertisement:
+  - Brand should promote sales to increase footfall both online and store retails.
+  - Also, brand should focus on meeting customer expectaion for retail stores for better customer experience and satisfaction.
+- Product Quality Control:
+  - Brand need to increase standards and protocols of product quality test process in terms of size measurements, product shrinkage after wash.
+- Dermatology Test (skin-disorders):
+  - Brand need to improove/ adopt dermatological test for chemicals used in manufacturing process i.e color-dye, washing chemicals etc
+- Seasonal Branding:
+  - Brand should promote seasonal clothing to focus and meet seasonal clothing demand.
+- Product Catalogue:
+  - Brand need to display products in all the colors available for their product catalogue
